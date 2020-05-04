@@ -12,7 +12,6 @@ end
 #binding.pry
 
 
-
 #my notes from the previous chapter
 # class User
 #attr_accessor :name, :user_name, :age, :location, :bio
